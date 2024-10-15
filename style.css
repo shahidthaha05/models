@@ -1,0 +1,28 @@
+nav{
+    /* background-color: blanchedalmond;
+    border: 2px solid black; */
+    height: 100px;
+    /* color: black; */
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.main{
+    margin-left: 60rem;
+    padding: 10px;
+}
+.home{
+    padding: 10px;
+}
+.new{
+    padding: 10px;
+}
+.pop{
+    padding: 10px;
+}
+.trnd{
+    padding: 10px;
+}
+.cat{
+    padding: 10px;
+}
