@@ -74,8 +74,41 @@ nav{
 }
 
 .num{
-    color: orangered;
+    color: tomato;
+    margin-left: 20px;
 }
 .pcs{
     margin-top: 60px;
+    margin-left: -24px;
+}
+.sub_pc{
+    margin-top: 91px;
+    margin-left: -131px;
+    width: 185px;    
+}
+.num1{
+    color: tomato;
+    margin-left: 20px;
+}
+.lap{
+    margin-top: 60px;
+    margin-left: -24px;
+}
+.sub_lap{
+    margin-top: 91px;
+    margin-left: -131px;
+    width: 185px;
+}
+.num2{
+    color: tomato;
+    margin-left: 20px;
+}
+.stick{
+    margin-top: 60px;
+    margin-left: -24px;
+}
+.sub_stick{
+    margin-top: 91px;
+    margin-left: -131px;
+    width: 185px;
 }
