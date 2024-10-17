@@ -71,6 +71,7 @@ nav{
 
 #cmp{
     display: flex;
+    margin: 20px;
 }
 
 .num{
@@ -81,13 +82,13 @@ nav{
 }
 .pcs{
     margin-top: 35px;
-    margin-left: -24px;
+    margin-left: -32px;
 }
 .sub_pc{
-    margin-top: 91px;
-    margin-left: -155px;
-    width: 185px;    
-}
+    margin-top: 68px;
+    margin-left: -158px;
+    width: 185px;
+}    
 .num1{
     color: tomato;
     margin-left: 20px;
@@ -95,11 +96,11 @@ nav{
 }
 .lap{
     margin-top: 35px;
-    margin-left: -24px;
+    margin-left: -31px;
 }
 .sub_lap{
-    margin-top: 91px;
-    margin-left: -179px;
+    margin-top: 67px;
+    margin-left: -187px;
     width: 185px;
 }
 .num2{
@@ -110,10 +111,21 @@ nav{
 }
 .stick{
     margin-top: 35px;
-    margin-left: -24px;
+    margin-left: -27px;
 }
 .sub_stick{
-    margin-top: 91px;
-    margin-left: -155px;
+    margin-top: 72px;
+    margin-left: -181px;
     width: 185px;
+}
+
+
+#im1{
+    margin-left: 4px;
+}
+#im2{
+    margin-left: 120px;
+}
+#im3{
+    margin-left: 120px;
 }
